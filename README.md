@@ -23,7 +23,7 @@ The data set contains information about the last 79210 claim payments made.
 
 # Datasets to be used:
 
-[www.kaggle.com](https://www.kaggle.com/datasets/gabrielsantello/medical-malpractice-insurance-datase)
+[www.kaggle.com](https://www.kaggle.com/datasets/gabrielsantello/medical-malpractice-insurance-dataset)
  
 Rough Breakdown of Tasks:
 - Prepare data in Jupyter (upload CSV..) 
