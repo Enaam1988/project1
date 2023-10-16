@@ -18,7 +18,6 @@ The data set contains information about the last 79210 claim payments made.
 # Research Questions to Answer:
 - How does hiring a private attorney affect the compensation amount in a personal claim?
 - How does age influence the likelihood of making higher claims?
-- How does marital status affect the frequency and amount of insurance claims?
 - Which specialty has the highest malpractice insurance cost?
 - How does the type of insurance affect the amount of claim?
 
