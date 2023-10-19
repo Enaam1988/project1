@@ -39,9 +39,9 @@ The data set contains information about the last 79210 claim payments made.
 #### numpy:
 - The numpy library was employed for numerical operations, which were particularly useful during data preprocessing.
 #### Data Cleaning:
-Missing values, outliers, and inconsistencies in the dataset were addressed using pandas and numpy functions. This step was essential to ensure data quality.
+- Missing values, outliers, and inconsistencies in the dataset were addressed using pandas and numpy functions. This step was essential to ensure data quality.
 #### Data Visualization:
-matplotlib.pyplot and seaborn: We utilized matplotlib and seaborn to create various data visualizations, including scatterplots, bar charts, and box plots, to gain insights into the data's distributions and relationships.
+- matplotlib.pyplot and seaborn: We utilized matplotlib and seaborn to create various data visualizations, including scatterplots, bar charts, and box plots, to gain insights into the data's distributions and relationships.
 #### Statistical Tests:
 - ttest_ind: This test was applied to assess the significance of differences between two groups. For instance, we used it to investigate how the presence of a private attorney impacts compensation amounts in personal claims.
 - scipy.stats: The point-biserial correlation coefficient was used to examine the relationship between binary and continuous variables. In our analysis, it helped us understand how variables like Correlation between Age and Claim Amount.
