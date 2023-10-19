@@ -32,13 +32,13 @@ The analysis will focus on a dataset of 79,210 medical malpractice claim payment
    - Gather and preprocess the dataset of medical malpractice claim payments, addressing missing values and inconsistencies.
    
 2. **Exploratory Data Analysis (EDA):**
-   - Conduct EDA to understand data distributions and identify patterns, relationships, and outliers.
+   - Conducted EDA to understand data distributions and identify patterns, relationships, and outliers.
    
 3. **Statistical Analysis:**
    - Apply statistical tests and regression analysis to assess the impact of factors on claim outcomes, such as age, presence of a private attorney, and insurance type.
 
 4. **Data Visualization:**
-   - Create visualizations to effectively communicate key findings and trends.
+   - Created visualizations to effectively communicate key findings and trends.
 
 5. **Summary and Recommendations:**
    - Summarize findings and provide actionable recommendations for healthcare and insurance stakeholders based on the analysis.
