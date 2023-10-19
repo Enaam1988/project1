@@ -47,7 +47,7 @@ The analysis will focus on a dataset of 79,210 medical malpractice claim payment
    - Maintain clear documentation and generate a comprehensive report to convey the results and insights of the analysis.
 
 ## Key Research Questions
-1. How does hiring a private attorney affect the compensation amount in a personal claim?
+1. Do people with a private attorney get higher claims?
 2. How does age influence the likelihood of making higher claims?
 3. Which specialty has the highest malpractice insurance cost?
 4. How does the type of insurance affect the amount of a claim?
