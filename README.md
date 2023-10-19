@@ -1,6 +1,9 @@
 # Project Title
 Evaluating the Patient Experience: An Analysis of Medical Insurance
-
+## introduction 
+- The healthcare system and medical malpractice are interconnected in various ways, and the relationship between them is crucial for patient safety, accountability and the overall quality of healthcare.
+- In the context of medical malpractice, “claims” typically refer to the legal actions or lawsuits filed by patients or families who believe they have been harmed due to negligence or substandard care by a healthcare provider. These claims are initiated to seek compensation for the damages or injuries suffered as a result of medical malpractice.
+- The outcomes of medical malpractice claims can be shaped by multiple factors. This introduction delves into the impact of several key elements, including legal representation, the patient's age, marital status, and the medical specialty involved in the case. Exploring the interplay of these factors can offer valuable insights into the dynamics of medical malpractice claims and the eventual outcomes they yield.
 ## Project Description
 According to a recent study published in the US News and World Report, the cost of medical malpractice in the United States is $55.6 billion a year, which is 2.4 percent of annual health-care spending. Another 2011 study published in the New England Journal of Medicine revealed that annually, during the period 1991 to 2005, 7.4% of all physicians licensed in the US had a malpractice claim. These staggering numbers not only contribute to the high cost of health care, but the size of successful malpractice claims also contributes to high premiums for medical malpractice insurance. The data set contains information about the last 79,210 claim payments made.
 
