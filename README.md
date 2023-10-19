@@ -14,7 +14,7 @@ The data set contains information about the last 79210 claim payments made.
 - Insurance - Type of medical insurance carried by the patient
 - Gender - Patient Gender
 ### Objectives
-- he primary objective of the project is to evaluate the patient experience in medical malpractice claims, with a specific focus on the role of medical insurance in these cases. The project seeks to gain insights into how medical malpractice affects patients and how insurance impacts the outcomes of malpractice claims.
+- The primary objective of the project is to evaluate the patient experience in medical malpractice claims, with a specific focus on the role of medical insurance in these cases. The project seeks to gain insights into how medical malpractice affects patients and how insurance impacts the outcomes of malpractice claims.
 ### Scope
 - the analysis will focus on a dataset of 79,210 medical malpractice claim payments.
 ## Data Source
@@ -31,3 +31,19 @@ The data set contains information about the last 79210 claim payments made.
  - How does age influence the likelihood of making higher claims?
  - Which specialty has the highest malpractice insurance cost?
  - How does the type of insurance affect the amount of claim?
+## Data Preprocessing Details:
+- In this section, I'll provide a brief overview of the Python libraries and statistical tests used in the data preprocessing and analysis process. These tools and functions play a key role in preparing and analyzing the medical malpractice claim payments dataset:
+#### Python Libraries:
+#### pandas: 
+- We used the pandas library to efficiently handle and manipulate the dataset. It allowed us to read, clean, and preprocess the data.
+#### numpy:
+- The numpy library was employed for numerical operations, which were particularly useful during data preprocessing.
+#### Data Cleaning:
+Missing values, outliers, and inconsistencies in the dataset were addressed using pandas and numpy functions. This step was essential to ensure data quality.
+#### Data Visualization:
+matplotlib.pyplot and seaborn: We utilized matplotlib and seaborn to create various data visualizations, including scatterplots, bar charts, and box plots, to gain insights into the data's distributions and relationships.
+#### Statistical Tests:
+- ttest_ind: This test was applied to assess the significance of differences between two groups. For instance, we used it to investigate how the presence of a private attorney impacts compensation amounts in personal claims.
+- scipy.stats: The point-biserial correlation coefficient was used to examine the relationship between binary and continuous variables. In our analysis, it helped us understand how variables like Correlation between Age and Claim Amount.
+- t (t-distribution): The t-distribution was employed for hypothesis testing and calculating confidence intervals in our statistical analysis. It enabled us to draw meaningful conclusions about the data.
+-  The ANOVA test: was applied to assess the variance and differences in group means for specific variables in the medical malpractice claim payments dataset. This statistical test allowed us to determine whether there are statistically significant differences between multiple groups, making it particularly useful when comparing more than two groups.It helped us understand how variables like the average claim amounts vary significantly between the different age ranges.explanation how  the insurance type plays a crucial role in determining the amount of a claim.
