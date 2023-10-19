@@ -74,4 +74,4 @@ The age of the insured individual can impact claim costs. Younger and older indi
 
 In the context of malpractice insurance, the medical specialty practiced by a healthcare professional is a significant factor. Based on our data, Dermatology specialty is linked to increased claim amounts in malpractice cases. This can be attributed to several factors such as complex procedures, cosmetic procedures, or high patient volume.
 
-Lastly, the type of insurance
+Lastly, the type of insurance coverage chosen by the policyholder plays a vital role in claim costs. Private insurance plans may offer broader coverage and higher limits, leading to higher claim amounts. Conversely, public or government-sponsored insurance programs may have limitations on claim payouts. 
