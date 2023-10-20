@@ -1,5 +1,5 @@
 
-# Evaluating the Patient Experience: An Analysis of Medical Insurance
+# Exploring Medical Malpractice Claims Rise
 ## Introduction 
 - The healthcare system and medical malpractice are interconnected in various ways, and the relationship between them is crucial for patient safety, accountability and the overall quality of healthcare.
 - In the context of medical malpractice, “claims” typically refer to the legal actions or lawsuits filed by patients or families who believe they have been harmed due to negligence or substandard care by a healthcare provider. These claims are initiated to seek compensation for the damages or injuries suffered as a result of medical malpractice.
