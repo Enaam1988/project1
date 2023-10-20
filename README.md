@@ -47,10 +47,10 @@ The analysis will focus on a dataset of 79,210 medical malpractice claim payment
    - Maintain clear documentation and generate a comprehensive report to convey the results and insights of the analysis.
 
 ## Key Research Questions
-1. Do people with a private attorney get higher claims?
-2. How does age influence the likelihood of making higher claims?
-3. Which specialty has the highest malpractice insurance cost?
-4. How does the type of insurance affect the amount of a claim?
+1. Are individuals represented by private attorneys more likely to receive larger settlements or judgments in medical malpractice?
+2. Is the age of the patient a factor influencing the size of claims?
+3. For which specialty is malpractice insurance most costly?
+4. What impact does the choice of insurance have on the claim amount?
 
 ## Data Preprocessing Details
 In this section, I'll provide a brief overview of the Python libraries and statistical tests used in the data preprocessing and analysis process. These tools and functions play a key role in preparing and analyzing the medical malpractice claim payments dataset:
