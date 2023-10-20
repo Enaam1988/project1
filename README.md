@@ -48,9 +48,22 @@ The analysis will focus on a dataset of 79,210 medical malpractice claim payment
 
 ## Key Research Questions
 1. Are individuals represented by private attorneys more likely to receive larger settlements or judgments in medical malpractice?
+- The analysis findings point to a significant variance in average compensation between claims that involve private attorneys than those that don’t. 
+In this specific context, it has become evident and supported by strong statistical evidence that retaining a private attorney significantly influences the amount received in claims than those who don’t. 
+
 2. Is the age of the patient a factor influencing the size of claims?
-3. For which specialty is malpractice insurance most costly?
+- Based on the data, we can draw a conclusion that there is a statistically significant difference in the insurance claim amounts among the age groups. 
+With age groups (0-18), (46-60), and (61-87) consistently receiving higher claim amounts.
+
+3.  For which specialty is malpractice insurance most costly?
+- Our data indicates that Dermatology is the medical specialty associated with the highest malpractice insurance costs. This implies, on average, Dermatologists encounter greater claim amounts and expenses in malpractice insurance claims when compared to their counterparts in other medical specialties. 
+To gain a more comprehensive understanding of the precise factors driving these heightened insurance expenses for Dermatology, further investigation is needed. 
+
+
 4. What impact does the choice of insurance have on the claim amount?
+- It is evident that there exists a substantial contrast in claim amounts based on the type of insurance. Specifically, Private Insurance stands out significantly in terms of the average amount when compared to other types.
+The analysis indicates that the selection of insurance type is a critical factor in influencing the claim amount. This insight can be helpful for decision-making concerning insurance coverage and effective claims management. 
+
 
 ## Data Preprocessing Details
 In this section, I'll provide a brief overview of the Python libraries and statistical tests used in the data preprocessing and analysis process. These tools and functions play a key role in preparing and analyzing the medical malpractice claim payments dataset:
